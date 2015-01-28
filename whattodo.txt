@@ -1,0 +1,6 @@
+• factorisation du header et du footer sur toutes les pages (accueil, chatons, anime)
+• factoriser la structure pour gerer le contenu dans un seul fichier
+	/index.php?page=chatons
+• Rappatrier le tableau des pages dans une table de base de données `page` qui stockera l'index,
+	le titre, le titre menu et le code HTML des pages (anciennement en include).
+	Le code d'index.php ira chercher les données dans la base.
