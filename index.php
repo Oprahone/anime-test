@@ -48,4 +48,4 @@
 	echo $body;
 	// afficher le footer
 	include( 'footer.php' );
-    
+    echo "<a href='http://localhost/w1-j8/animetest-w1-j8/admin.php'>Administration</a>";
